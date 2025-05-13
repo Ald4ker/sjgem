@@ -15,15 +15,6 @@ const SCREENS = {
   WAGER_SETUP: 'WAGER_SETUP',
 };
 
-// Mock Database (User should replace this with their actual database)
-const MOCK_DATABASE = {
-  "categories": [
-
-
-(question database will be added here but is too long to add now, so I will add later)
-(here is the rest of the codebase after the database)
-
-
 
 // Game Context
 const GameContext = createContext();
